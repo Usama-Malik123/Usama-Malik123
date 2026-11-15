@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Usama 👋
 
-<!--
-**Usama-Malik123/Usama-Malik123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+DevOps Engineer based in Islamabad, Pakistan, with ~2 years of hands-on experience building and running cloud infrastructure on AWS.
 
-Here are some ideas to get you started:
+I work on CI/CD pipelines, infrastructure as code, containerized deployments, and migrating workloads (recently ECS Fargate → EC2 with autoscaling).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech I work with
+**Cloud:** AWS (EC2, ECS, ECR, VPC, ALB, RDS, S3, IAM, Lambda)
+**IaC & Config:** Terraform
+**Containers:** Docker, Docker Swarm, Kubernetes
+**CI/CD:** GitHub Actions, Jenkins
+**Monitoring:** Prometheus, Grafana
+**Scripting:** Python, Bash
+
+### 🚀 Projects
+- 🚧 **aws-terraform-cicd-pipeline** — AWS infra with Terraform + GitHub Actions deployment *(in progress)*
+- 🚧 **ecs-ec2-autoscaling-terraform** — ECS on EC2 with capacity providers & autoscaling *(coming soon)*
+
+### 📫 Connect
+[LinkedIn](https://www.linkedin.com/in/usamanazirmalik)
