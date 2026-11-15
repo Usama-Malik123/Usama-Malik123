@@ -5,12 +5,12 @@ DevOps Engineer based in Islamabad, Pakistan, with ~2 years of hands-on experien
 I work on CI/CD pipelines, infrastructure as code, containerized deployments, and migrating workloads (recently ECS Fargate → EC2 with autoscaling).
 
 ### 🛠 Tech I work with
-**Cloud:** AWS (EC2, ECS, ECR, VPC, ALB, RDS, S3, IAM, Lambda)
-**IaC & Config:** Terraform
-**Containers:** Docker, Docker Swarm, Kubernetes
-**CI/CD:** GitHub Actions, Jenkins
-**Monitoring:** Prometheus, Grafana
-**Scripting:** Python, Bash
+- **Cloud:** AWS (EC2, ECS, ECR, VPC, ALB, RDS, S3, IAM, Lambda)
+- **IaC:** Terraform
+- **Containers:** Docker, Docker Swarm, Kubernetes
+- **CI/CD:** GitHub Actions, Jenkins
+- **Monitoring:** Prometheus, Grafana
+- **Scripting:** Python, Bash
 
 ### 🚀 Projects
 - 🚧 **aws-terraform-cicd-pipeline** — AWS infra with Terraform + GitHub Actions deployment *(in progress)*
